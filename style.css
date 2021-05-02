@@ -55,9 +55,11 @@ h1{
 }
 
 button{
+    font-size: 80px;
     border: solid black 2px;
+    background: blue;
+    color: white;
      border-radius: 10px;
-    background: purple;
 }
 button:hover{
     cursor: pointer;
