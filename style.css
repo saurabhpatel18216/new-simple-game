@@ -24,11 +24,16 @@ h1{
     font-size: 54px;
     
 }
-p{
+.player{
     color: white;
     text-align: centre;
     font-size: 47px;
-   border: white solid 3px;}
+   border: white solid 3px;
+     width: 130px;
+     height: 95px;}
+.click{
+    color: white;
+    font-size: 50px;}
 
 .container{
     padding: 40px;
