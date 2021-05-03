@@ -27,7 +27,8 @@ h1{
 p{
     color: white;
     text-align: centre;
-    font-size: 27px;}
+    font-size: 47px;
+   border: white solid 3px;}
 
 .container{
     padding: 40px;
