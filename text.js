@@ -39,7 +39,6 @@ function boxClicked(e) {
     e.target.innerText = currentPlayer;
     if (hasPlayerWon(currentPlayer)) {
       playText.innerHTML = `${currentPlayer} wins!!`;
-      alert(`${currentPlayer} wins!!`);
       return;
     }
     currentPlayer = currentPlayer === O_TEXT ? X_TEXT : O_TEXT;
