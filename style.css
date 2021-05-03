@@ -24,6 +24,10 @@ h1{
     font-size: 54px;
     
 }
+p{
+    color: white;
+    text-align: centre;
+    font-size: 27px;}
 
 .container{
     padding: 40px;
